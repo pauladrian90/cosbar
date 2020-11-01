@@ -23,7 +23,7 @@ td, th {
   vertical-align: middle !important;
 }
 td {
-text-align: center !important;
+text-align: left !important;
 }
 .paulbutton {
     background-color: #111;
