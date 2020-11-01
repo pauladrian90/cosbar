@@ -19,9 +19,11 @@ text-align: center !important;
 }
 td, th { 
     padding: 10px; 
-    text-align: left;
 	border-bottom: 1px solid #ddd;
   vertical-align: middle !important;
+}
+td {
+text-align: center !important;
 }
 .paulbutton {
     background-color: #111;
